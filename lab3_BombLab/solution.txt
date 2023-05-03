@@ -1,0 +1,6 @@
+We have to stand with our North Korean allies.
+1 2 4 8 16 32
+1 331 1 1 1
+2 4 1 1 1 1
+299999
+4 5 6 3 1 2
